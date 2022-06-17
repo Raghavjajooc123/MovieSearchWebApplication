@@ -27,7 +27,7 @@ To deploy this project run
 
 Here is a link to the gif file of the outcome:-
 
-[![Demo CountPages alpha](https://drive.google.com/file/d/1Au5RVmtD3RhspxIvAVNZZk5kf0V8lq6j/view?usp=sharing.gif)](https://drive.google.com/file/d/17kT8hFyLfgDGhMQa8G40BznJSzan4IAK/view?usp=sharing)
+[![Demo CountPages alpha](https://drive.google.com/file/d/1Au5RVmtD3RhspxIvAVNZZk5kf0V8lq6j/view?usp=sharing.)](https://drive.google.com/file/d/17kT8hFyLfgDGhMQa8G40BznJSzan4IAK/view?usp=sharing)
 
 
 ## Hosting the project online
