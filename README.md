@@ -25,10 +25,21 @@ To deploy this project run
 
 ## Demo
 
-Here is a link to the gif file of the outcome:-
+Register/Login Page :-
 
-[![Demo CountPages alpha](https://drive.google.com/file/d/1Au5RVmtD3RhspxIvAVNZZk5kf0V8lq6j/view?usp=sharing.)](https://drive.google.com/file/d/17kT8hFyLfgDGhMQa8G40BznJSzan4IAK/view?usp=sharing)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/61447812/174406670-904cb2dd-8d83-47e8-85f1-922210fa1add.gif)
 
+Search and display feature :-
+
+![gif2](https://user-images.githubusercontent.com/61447812/174407840-546817f8-1096-4e01-8ffb-5badbf234640.gif)
+
+Adding to playlist :-
+
+![gif3](https://user-images.githubusercontent.com/61447812/174407708-95016f38-9ef0-44d5-a40f-ae6ab026b276.gif)
+
+Viewing all playlists :-
+
+![gif4](https://user-images.githubusercontent.com/61447812/174407812-d16f1b4c-25f4-4339-8b04-47ce25419cd4.gif)
 
 ## Hosting the project online
 
