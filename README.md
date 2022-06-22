@@ -3,7 +3,7 @@
 
 This is a movie library web application which is created by using EJS, CSS, Javascript in the Frontend, Node.js for Backend, MongoDB as the Database, and Bootstrap to create the better user interface.
 
-[movie-central](https://movie-central-heroku.herokuapp.com)
+[Movie-Central](https://movie-central-heroku.herokuapp.com)
 
 ## Features
 
